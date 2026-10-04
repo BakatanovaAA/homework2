@@ -36,7 +36,9 @@
 
 ### Блок-схема
 
-[Блок-схема, созданная в draw.io](https://drive.google.com/file/d/1bK8V_VAvQEBLzVZFOK_-fqhhn25ZspZK/view?usp=sharing)
+![Блок-схема, созданная в draw.io]( laba2.drawio.png )
+
+(https://drive.google.com/file/d/1bK8V_VAvQEBLzVZFOK_-fqhhn25ZspZK/view?usp=sharing)
 
 ---
 
